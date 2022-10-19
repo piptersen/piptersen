@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @piptersen!
-- 👀 I’m interested in!
-- 🌱 I’m currently learning!
-- 💞️ I’m looking to collaborate!
-- 📫 How to reach me!
+👋 Hi, I’m @piptersen!
+👀 Interests lie in Cosmology, Astronomy, Interesting visualizations
+🌱 PhD Student @ Case Western Reserve University
+📫 Contact me at petersenpip@gmail.com
 
 <!---
 piptersen/piptersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
