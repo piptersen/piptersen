@@ -2,6 +2,7 @@
 - 👀 Interests lie in Cosmology, Astronomy, Interesting visualizations
 - 🌱 PhD Student @ University of Washington
 - 📫 Contact me at petersenpip@case.edu or petersenpip@gmail.com
+- See my website at [piptersen.github.io](https://piptersen.github.io)
 
 <!---
 piptersen/piptersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
