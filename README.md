@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piptersen!
 - 👀 Interests lie in Cosmology, Astronomy, Interesting visualizations
-- 🌱 PhD Student @ Case Western Reserve University
+- 🌱 PhD Student @ University of Washington
 - 📫 Contact me at petersenpip@case.edu or petersenpip@gmail.com
 
 <!---
